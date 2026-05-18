@@ -54,6 +54,7 @@ NINJATRADER_API_KEY=your_api_key_here
 ### 3. For Local Mode - Install NinjaTrader Add-On
 
 You need a NinjaScript Add-On running on NinjaTrader Desktop that exposes an HTTP server. See [NinjaTrader Add-On Development](https://developer.ninjatrader.com/) for details.
+you can compile the httpServerAddon.cs from src folder. 
 
 ### 4. Test Connection
 
